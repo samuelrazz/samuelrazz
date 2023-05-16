@@ -14,7 +14,7 @@
 
 <hr>
 
-### Tecnologias que eu uso no meu dia
+<h3> Tecnologias que eu uso no meu dia</h3>
 
 
 <div align="center"><br/>
@@ -39,7 +39,7 @@
   
 <Br>
     
-### Meus Projetos! 🎨
+    <h3>Meus Projetos! 🎨 </h3>
     
 <Br>
  

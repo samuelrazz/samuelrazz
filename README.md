@@ -9,8 +9,8 @@
 
 - 💻: Eterno estudante.
 - 🎓: <a href="https://dio.me/">DIO</a> - Java Developer
-- 🎓: <a href="https://etecmlk.cps.sp.gov.br/">Etec Martin Luther King</a> - Técnico em Desenvolvimento de Sistemas 1/3
-- 🌱: Atualmente estudo Desenvolvimento Web e Estrutura de Dados, mas já me aventurei com HTML, CSS, um pouco de React e Golang. Tambem tive contato com C e C#.
+- 🎓: <a href="https://etecmlk.cps.sp.gov.br/">Etec Martin Luther King</a> - Técnico em Desenvolvimento de Sistemas 2/3
+- 🌱: Atualmente estudo Desenvolvimento Web e Estrutura de Dados, mas já me aventurei com HTML, CSS, Golang e C#.
 
 <hr>
 
@@ -43,7 +43,7 @@
     
 <Br>
  
- <a href="[https://github.com/samuelrazz](https://github.com/samuelrazz/trilha-net-fundamentos-desafio)">Desafio de código .NET - Decola Avanade</a>
+ <a href="https://github.com/samuelrazz/trilha-net-fundamentos-desafio">Desafio de código .NET - Decola Avanade </a>
   
 <p>Construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.</p>
  

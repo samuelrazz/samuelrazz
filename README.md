@@ -43,18 +43,11 @@
     
 <Br>
  
- <a href="https://github.com/samuelrazz">projeto 1</a>
+ <a href="[https://github.com/samuelrazz](https://github.com/samuelrazz/trilha-net-fundamentos-desafio)">Desafio de código .NET - Decola Avanade</a>
   
-Project Description: .
+<p>Construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.</p>
  
  ***
-  
- <a href="https://github.com/samuelrazz">projeto 2</a>
-  
-Project Description: .
-  
- ***
- 
 <div align="center">
 
 ![Samuel Razzaboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelrazz&hide=contribs,prs&show_icons=true&theme=synthwave)

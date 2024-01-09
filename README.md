@@ -46,7 +46,15 @@
  <a href="https://github.com/samuelrazz/trilha-net-fundamentos-desafio">Desafio de código .NET - Decola Avanade </a>
   
 <p>Construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.</p>
+
+ <Br>
  
+ 
+ <a href="https://github.com/samuelrazz/trilha-net-fundamentos-desafio">Desafio POO .NET - Decola Avanade </a>
+  
+<p>Modelar um sistema que trabalha com celulares. Faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código.</a>
+  
+
  ***
 <div align="center">
 

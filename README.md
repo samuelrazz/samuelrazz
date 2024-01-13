@@ -43,7 +43,7 @@
     
 <Br>
  
- <a href="https://github.com/samuelrazz/Desafio-Decola-Avanade-Fundamentos">Desafio de código .NET - Decola Avanade </a>
+ <a href="https://github.com/samuelrazz/Desafio-Decola-Avanade-Fundamentos">Desafio Fundamentos .NET - Decola Avanade </a>
   
 <p>Construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.</p>
 

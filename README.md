@@ -19,10 +19,7 @@
 
 <div align="center"><br/>
     <img allign="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img allign="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-    <img allign="center" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-    <img allign="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img allign="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img allign="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img allign="center" alt="javascrip" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 </div>
@@ -30,12 +27,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrazz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrazz&hide_progress=false)
 
- </div>
-
-
-</p>
+</div>
   
 <Br>
     
@@ -58,7 +52,7 @@
  ***
 <div align="center">
 
-![Samuel Razzaboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelrazz&hide=contribs,prs&show_icons=true&theme=synthwave)
+![Samuel Razzaboni's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelrazz&show_icons=true&theme=dark)
 
 </div>
 <Br>

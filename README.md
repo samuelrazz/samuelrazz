@@ -47,6 +47,10 @@
  <a href="https://github.com/samuelrazz/Desafio-Decola-Avanade-POO">Desafio POO .NET - Decola Avanade </a>
   
 <p>Modelar um sistema que trabalha com celulares. Faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código.</a>
+
+
+<a href="https://github.com/samuelrazz/Desafio-Decola-Avanade-Testes/tree/master">Desafio Testes Unitários .NET - Decola Avanade </a>
+<p>Implementação de testes unitários: escrever testes cobrindo as partes mais críticas do sistema, com cenários positivos e negativos, a fim de ter uma rastreabilidade e controle do código, melhorando assim a qualidade desse sistema.</p>
   
 
  ***

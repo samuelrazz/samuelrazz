@@ -7,9 +7,8 @@
 
 </div>
 
-- 💻: Eterno estudante.
-- 🎓: <a href="https://dio.me/">DIO</a> - Java Developer
-- 🎓: <a href="https://etecmlk.cps.sp.gov.br/">Etec Martin Luther King</a> - Técnico em Desenvolvimento de Sistemas 2/3
+- 💻: Desenvolvedor Java em formação
+- 🎓: <a href="https://etecmlk.cps.sp.gov.br/">Etec Martin Luther King</a> - Técnico em Desenvolvimento de Sistemas 3/3
 - 🌱: Atualmente estudo Desenvolvimento Web e Estrutura de Dados, mas já me aventurei com HTML, CSS, Golang e C#.
 
 <hr>
